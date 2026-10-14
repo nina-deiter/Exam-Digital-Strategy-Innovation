@@ -1,3 +1,5 @@
+import React from 'react';
+
 // Study site: summary + flashcards. Add a chapter by appending an object to CHAPTERS.
 
 const CHAPTERS = [
